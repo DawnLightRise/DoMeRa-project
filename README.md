@@ -1,5 +1,5 @@
 > [!NOTE]
-> This repository, `DoMeRa-project`, is a temporary public-facing repository created to provide information about DoMeRa while the project is under development. It does not contain the DoMeRa source code. The actual source-code repository is currently private and has not yet been publicly released.
+> This is a temporary public-facing repository created to provide information about [DoMeRa](https://github.com/DawnLightRise/DoMeRa) while the project is under development.
 
 # DoMeRa
 
