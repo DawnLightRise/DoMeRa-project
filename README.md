@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is a temporary public-facing repository created to provide information about [DoMeRa](https://github.com/DawnLightRise/DoMeRa) while the project is under development.
+> This is a temporary public-facing repository created to provide information about DoMeRa while the project is under development.
 
 # DoMeRa
 
